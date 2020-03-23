@@ -19,5 +19,8 @@
 - `val/images` содержит фотографии 512x512x3;  
 - `val/coco_annotations.json` содержит аннотации в формате [COCO](http://cocodataset.org/#format-data).
 
+# Решение
+
+все решение находится в папке notebooks
 
 
